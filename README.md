@@ -1,6 +1,6 @@
 Use this repo to download and run the h2 database jar file
 
-chomd -x h2/h2jar.sh
+chmod +x h2/h2jar.sh
 
 sudo sh h2/h2jar.sh
 
